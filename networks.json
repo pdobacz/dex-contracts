@@ -17,6 +17,13 @@
       "transactionHash": "0xc5bf4f48747093a79b623c2a2392ccbdb73a3d788e7d1f0f53f640ea18496d90"
     }
   },
+  "BatchExchangeViewer": {
+    "4": {
+      "links": {},
+      "address": "0x76297bE6C89AB5E68D7dC9d5ae3E1af8211d96b5",
+      "transactionHash": "0xdf66b118cea5b7d54ebd7cc96c699ed51a8b4f3877d3acd8849f829e1d8266c2"
+    }
+  },
   "Migrations": {
     "1": {
       "links": {},
@@ -25,8 +32,8 @@
     },
     "4": {
       "links": {},
-      "address": "0x7Be8D093e944e1d084b955A3F7A87b7ee0B1F8e6",
-      "transactionHash": "0xa455aed292182b44dcc8c375566862e5aeb55e884e034dde0af30b2fbad11c45"
+      "address": "0x09B26C1736Adcb90a2Aab1fc675FeEd52a4183c2",
+      "transactionHash": "0xc61b9e87c1c8a63f8b00afa8201b05240293bf9b434b4eecf0f1aa47b40ab042"
     }
   }
 }
